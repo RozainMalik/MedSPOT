@@ -35,6 +35,7 @@ Each script evaluates one model on the full benchmark. All scripts share the sam
 | `evaluate_osatlas.py` | OS-Atlas |
 | `evaluate_seeclick.py` | SeeClick |
 | `evaluate_uground.py` | UGround |
+| `evaluate_Aguvis.py`  | Aguvis-7B |
 
 ---
 
