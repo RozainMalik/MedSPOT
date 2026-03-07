@@ -129,9 +129,9 @@ results/
 ## Citation
 
 ```bibtex
-@article{medspot2025,
+@article{medspot2026,
   title     = {MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI},
-  year      = {2025}
+  year      = {2026}
   note      = {Under review}
 }
 ```
