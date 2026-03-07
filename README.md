@@ -130,7 +130,7 @@ results/
 
 ```bibtex
 @article{medspot2025,
-  title     = {MedSPOT-Bench: Benchmarking GUI Grounding in Medical Imaging Software},
+  title     = {MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI},
   year      = {2025}
   note      = {Under review}
 }
