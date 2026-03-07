@@ -61,6 +61,8 @@ python evaluate_gpt5.py \
 ```
 
 ---
+## Dataset
+The data will be available on HuggingFace at https://huggingface.co/datasets/anonymous009009/MedSPOT_Bench
 
 ## Dataset Structure
 
